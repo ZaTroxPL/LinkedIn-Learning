@@ -1,2 +1,2 @@
 # LinkedInLearning
- LinkedIn Learning Software Development
+ LinkedIn Learning Software Development Course
